@@ -1,0 +1,3 @@
+- SDK docs: https://openai.github.io/openai-agents-python/agents/
+- GitHub examples: https://github.com/openai/openai-agents-python/tree/main/examples
+- GitHub agent definitions: https://github.com/openai/openai-agents-python/tree/main/src/agents
